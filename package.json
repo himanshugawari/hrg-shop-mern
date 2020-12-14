@@ -1,0 +1,22 @@
+{
+  "name": "hrg-shop-mern",
+  "version": "1.0.0",
+  "description": "MERN HRG Shop app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshugawari/hrg-shop-mern.git"
+  },
+  "author": "Himanshu Gawari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himanshugawari/hrg-shop-mern/issues"
+  },
+  "homepage": "https://github.com/himanshugawari/hrg-shop-mern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
